@@ -1,0 +1,15 @@
+PID ,SURVIVED,P_CLASS,NAME,AGE
+1,1,a,vinit,24
+2,0,b,aniket,35
+3,1,c,pranav,45
+4,0,a,raj,55
+5,1,b,manish,32
+6,0,c,aishwarya,22
+7,1,a,rutika,34
+8,0,b,guddi,67
+9,0,c,akshata,44
+10,1,a,ganesh,22
+12,0,b,aman,21
+13,1,c,prateek,23
+14,0,a,rahul,22
+15,1,b,saad,40
